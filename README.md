@@ -1,7 +1,7 @@
 # next-permutation-package
 
 ## Intro
-`next_permutation` is a function of full permutation, which can receive a string s, and can return next string in the full permutation (if it has reached the last permutation, it will return the last one)
+`next_permutation` is a function of full permutation, which can receive a string s, and can return the next string in the permutation (if it has reached the last permutation, it will return the last one)
 
 ## Install
 ```
