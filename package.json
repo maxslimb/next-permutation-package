@@ -10,5 +10,13 @@
     "permutation"
   ],
   "author": "Kishan Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maxslimb/next-permutation-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxslimb/next-permutation-package/issues"
+  },
+  "homepage": "https://github.com/maxslimb/next-permutation-package#readme"
 }
