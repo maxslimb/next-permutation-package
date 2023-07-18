@@ -1,5 +1,5 @@
 {
-  "name": "next-permutation",
+  "name": "@maxslimb/next-permutation",
   "version": "1.0.0",
   "description": "find the next permutation of the number",
   "main": "index.js",

@@ -1,5 +1,5 @@
 const NextPermutation = require('next-permutation')
  
-let startStr = '125'
-let res = NextPermutation(startStr)
+let Str = '125'
+let res = NextPermutation(Str)
 console.log(res) 
